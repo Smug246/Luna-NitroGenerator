@@ -4,6 +4,7 @@
 
 <h2 align="center">
   Luna Nitro Generator is a tool that allows you to create nitro codes and check if they are valid or invalid!
+  If you skid this give me or addidix credits!
 </h2>
 
 
