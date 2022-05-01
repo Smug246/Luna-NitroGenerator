@@ -35,7 +35,8 @@ done this press enter.
 ### 4. Code Checking
 ```
 100s of codes will be created and checked. Most will be invalid but there is 
-a small chance a code will be generated.
+a small chance a code will be generated. Now you can just wait and hope to get
+lucky!
 ```
 ### 5. Your Welcome, Enjoy!
 This was made for educational purposes only. We do not take responsibility of any actions
