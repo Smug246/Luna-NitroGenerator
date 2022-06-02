@@ -1,0 +1,8 @@
+ctypes
+string
+os
+time
+numpy
+requests
+discord_webhook
+colorama
