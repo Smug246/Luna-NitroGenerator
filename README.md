@@ -21,7 +21,7 @@ python v3.10.1 or higher
 
 ### 1. Download The NitroGen.py File:
 ```
-Download the file then open it with either cmd or python launcher.
+Download the file then open it with either cmd or python launcher. Make sure you have installed the requirements beforehand.
 ```
 
 ### 2. Input Amount Of Codes
