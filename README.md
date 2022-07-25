@@ -19,9 +19,9 @@ Download [Python](https://www.python.org/downloads/) to start off if you don't h
 python v3.10.1 or higher
 ```
 
-### 1. Download The NitroGen.py File:
+### 1. Open the install.bat:
 ```
-Download the file then open it with either cmd or python launcher. Make sure you have installed the requirements beforehand.
+This file will download all the required modules for you. You can then open the .py file with either cmd or python launcher. 
 ```
 
 ### 2. Input Amount Of Codes
